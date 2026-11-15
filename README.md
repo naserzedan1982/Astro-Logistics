@@ -1,7 +1,7 @@
 Project Title
 Astro-Logistics: Automated Site Mobilization & Heavy Lifting Tracker for Lunar Habitats
 
-High-Level Summary
+Summary
 Building the Artemis lunar base isn’t just an aerospace challenge; it’s an unprecedented heavy-industrial construction nightmare. Our solution, Astro-Logistics, bridges the gap between aerospace engineering and on-ground heavy construction management. We developed an automated Python-based tool that extracts critical data from isometric piping drawings and equipment manifests, automatically calculates Lunar-gravity weight adjustments, and generates dynamic Project Management dashboards. This tool optimizes site mobilization, sequences heavy lifting operations, and tracks piping spool installations, ensuring safe and efficient construction in a micro-gravity environment.
 
 What exactly does it do?
